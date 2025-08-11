@@ -40,7 +40,7 @@ Os dados usados no dashboard foram obtidos de uma fonte pública (_GitHub_) e co
 
 ---
 
-##📈 **FUNCIONALIDADES DO DASHBOARD**
+## 📈 **FUNCIONALIDADES DO DASHBOARD**
 Filtros dinâmicos para refinar os dados por ano, senioridade, contrato e tamanho da empresa.
 
 KPIs com salário médio, máximo, total de registros e cargo mais frequente.
@@ -57,8 +57,12 @@ Mapa de salário médio por país para Cientista de Dados (mapa coroplético)
 
 Visualização de dados detalhados em tabela com paginação.
 
+---
+
 ##📞 **CONTATO**
 
--Desenvolvido por Livia Rosario
--Linkedln: www.linkedin.com/in/lívia-rosário-01lr03
--Email: liviasouzaxc@gmail.com
+Desenvolvido por Livia Rosario
+
+Linkedln: www.linkedin.com/in/lívia-rosário-01lr03
+
+Email: liviasouzaxc@gmail.com
