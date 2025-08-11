@@ -59,6 +59,6 @@ Visualização de dados detalhados em tabela com paginação.
 
 ##📞 **CONTATO**
 
-Desenvolvido por Livia Rosario
-Linkedln: www.linkedin.com/in/lívia-rosário-01lr03
-Email: liviasouzaxc@gmail.com
+-Desenvolvido por Livia Rosario
+-Linkedln: www.linkedin.com/in/lívia-rosário-01lr03
+-Email: liviasouzaxc@gmail.com
