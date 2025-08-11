@@ -59,7 +59,7 @@ Visualização de dados detalhados em tabela com paginação.
 
 ---
 
-##📞 **CONTATO**
+## 📞 **CONTATO**
 
 Desenvolvido por Livia Rosario
 
