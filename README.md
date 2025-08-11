@@ -58,6 +58,7 @@ Mapa de salário médio por país para Cientista de Dados (mapa coroplético)
 Visualização de dados detalhados em tabela com paginação.
 
 ##📞 **CONTATO**
-Desenvolvido por Livia Rosario
 
+Desenvolvido por Livia Rosario
+Linkedln: www.linkedin.com/in/lívia-rosário-01lr03
 Email: liviasouzaxc@gmail.com
