@@ -1,7 +1,5 @@
 # **Dashboard de Análise de Salários na Área de Dados**
 
-![Dashboard Preview](link-da-imagem-ou-gif-aqui)
-
 ## 📊 **CONTEXTO**
 
 Este projeto apresenta um **dashboard interativo** desenvolvido em **Python com Streamlit**, que permite explorar dados salariais da área de dados ao longo dos últimos anos. O objetivo é facilitar a visualização e análise de tendências, variações por cargo, senioridade, tipo de contrato, localização e outros fatores relevantes para profissionais e empresas do setor.
