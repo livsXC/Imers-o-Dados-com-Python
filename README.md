@@ -1,5 +1,7 @@
 # **Dashboard de Análise de Salários na Área de Dados**
 
+link:https://imers-o-dados-com-python-c2hhpjanno5rqhp8gzxbnd.streamlit.app/
+
 ## 📊 **CONTEXTO**
 
 Este projeto apresenta um **dashboard interativo** desenvolvido em **Python com Streamlit**, que permite explorar dados salariais da área de dados ao longo dos últimos anos. O objetivo é facilitar a visualização e análise de tendências, variações por cargo, senioridade, tipo de contrato, localização e outros fatores relevantes para profissionais e empresas do setor.
